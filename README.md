@@ -17,7 +17,7 @@
 
 ---
 
-### 📫 Vamos nos conectar?
+### 📫 Outros links meus:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-eduardo-psj/)
 [![Notion Portfolio](https://img.shields.io/badge/Portfólio_Notion-000000?style=flat&logo=notion)](https://www.notion.so/seulink)
