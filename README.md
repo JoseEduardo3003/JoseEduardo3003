@@ -20,5 +20,5 @@
 ### 📫 Outros links meus:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jose-eduardo-psj/)
-[![Notion Portfolio](https://img.shields.io/badge/Portfólio_Notion-000000?style=flat&logo=notion)](https://www.notion.so/seulink)
+[![Notion Portfolio](https://img.shields.io/badge/Portfólio_Notion-000000?style=flat&logo=notion)]((https://obtainable-kookaburra-f7c.notion.site/Jos-Eduardo-Portf-lio-em-An-lise-de-Dados-2377de915af280c5ac6edc01e962ea42))
 
