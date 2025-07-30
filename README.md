@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o José Eduardo
 
-🎓 Estudante de Engenharia Elétrica (UNESP Bauru)  
+**🎓 Estudante de Engenharia Elétrica (UNESP Bauru)  
 📊 Focado em Análise de Dados e Business Intelligence  
 🛠️ Tecnologias: Python, SQL, Power BI, Excel  
-📚 Em transição de carreira, construindo portfólio sólido com dados reais
+📚 Em transição de carreira, construindo portfólio sólido com dados reais**
 
 ---
 
