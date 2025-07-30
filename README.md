@@ -12,7 +12,7 @@
 - 🔍 [Análise de Vendas de Pizza (Python + Excel)]([https://github.com/JoseEduardo3003/Pizza](https://github.com/JoseEduardo3003/PizzaSales-ExcelPython))
 - 📈 [Análise de Varejo Global (SQL + Power BI)]([LINK_AQUI](https://github.com/JoseEduardo3003/Complaints-Excel))
 - 🧾 [Análise de Reclamações Bancárias (Excel)](https://github.com/JoseEduardo3003/Complaints-Excel)
-- 🧾 [Análise de CRM (Power BI)](LINK_AQUI)
+- 🧾 [Análise de CRM (Power BI)]([LINK_AQUI](https://github.com/JoseEduardo3003/Descritiva-CRM-PowerBI))
 
 
 ---
